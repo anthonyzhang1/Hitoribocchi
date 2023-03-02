@@ -1,12 +1,11 @@
 # Hitoribocchi (一人ぼっち)
-This is an iOS flashcard app that uses a spaced repetition system and was heavily inspired by Anki. You can create flashcard decks, create flashcards of different types (e.g. basic or multiple choice), delete flashcards, search for flashcards, review flashcards, and maybe more.
+Hitoribocchi is an iOS flashcard app that uses a spaced repetition system and was heavily inspired by Anki. You can create flashcard decks, create flashcards of different types (e.g. basic or multiple choice), delete flashcards, search for flashcards, review flashcards, and maybe more.
 
-Hitoribocchi uses Swift (UIKit) and Core Data. Core Data is used to store the decks/cards and their metadata, e.g. their due dates. \
-Hitoribocchi looks best on an iPhone 14 Pro, as that was what I used on Xcode to run the application.
+Hitoribocchi uses Swift (UIKit) and Core Data. Core Data is used to store the decks/cards and their metadata, e.g. their due dates.
 
 Hitoribocchi was created for my university's iOS Application Development course in Fall 2022.
 
-#### Note: You most likely need Xcode, and therefore a macOS computer, to run Hitoribocchi.
+#### Note: You most likely need Xcode, and therefore a macOS computer, to run Hitoribocchi. Furthermore, Hitoribocchi looks best on an iPhone 14 Pro, as that was what I used on Xcode to run the application.
 
 # Installation Instructions
 **Step 1:** Clone this repository to your computer. \
