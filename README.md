@@ -3,7 +3,8 @@ Hitoribocchi is an iOS flashcard app that uses a spaced repetition system and wa
 
 Hitoribocchi uses Swift (UIKit) and Core Data. Core Data is used to store the decks/cards and their metadata, e.g. their due dates.
 
-Hitoribocchi was created for my university's iOS Application Development course in Fall 2022.
+Hitoribocchi was created for my university's iOS Application Development course in Fall 2022. \
+The `Documents` folder holds the various reports/writeups I submitted.
 
 #### Note: You most likely need Xcode, and therefore a macOS computer, to run Hitoribocchi. Furthermore, Hitoribocchi looks best on an iPhone 14 Pro, as that was what I used on Xcode to run the application.
 
